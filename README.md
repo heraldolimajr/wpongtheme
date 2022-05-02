@@ -1,2 +1,2 @@
-# wpongtheme
+# wpOngTheme
 Tema Wordpress para ONGs 
